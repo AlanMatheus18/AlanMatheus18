@@ -5,7 +5,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working  como desenvolvedor de software.
 - 🌱 I’m currently learning Linguagens de Programação back-end: Java e python.
 - 💬 Pergunte-me sobre animes😎
-- 📫 Como chegar até mim: 
 - 😄 Pronouns:Ele/Dele
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)

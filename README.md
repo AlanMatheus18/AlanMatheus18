@@ -6,12 +6,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Linguagens de Programação back-end: Java e python.
 - 💬 Pergunte-me sobre animes😎
 - 📫 Como chegar até mim: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns:Ele/Dele
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-z
+
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>

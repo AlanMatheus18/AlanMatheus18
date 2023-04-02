@@ -1,6 +1,5 @@
-### Hi there 👋 eu sou Alan Matheus, futuro desenvolvedor Fullstack.
-
-
+# 🌟 Sobre mim:
+### Hi there 👋 eu sou Alan Matheus, futuro desenvolvedor Fullstack
 
 - 🔭 I’m currently working  como desenvolvedor de software.
 - 🌱 I’m currently learning Linguagens de Programação back-end: Java e python.

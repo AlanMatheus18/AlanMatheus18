@@ -6,6 +6,17 @@
 - 💬 Pergunte-me sobre animes😎
 - 😄 Pronouns:Ele/Dele
 
+
+
+[![Instagram](https://img. shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@neto.lellis) [![LinkedIn](https://img.shields.io/ badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/netolellis) [![YouTube](https://img.shields.io/badge/YouTube-% 23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sorake14)
+
+
+
+
+
+
+
+
 <div align="center">
   <a href="https://github.com/AlanMatheus18">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlanMatheus18&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>

@@ -6,6 +6,22 @@
 - 💬 Pergunte-me sobre animes😎
 - 😄 Pronouns:Ele/Dele
 
+<div align="center">
+   <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
+</div>
+
+<h3 align="center">
+  Connect with me
+</h3>
+
+<div align="center">
+<p>
+<a href="mailto:felipe.silva.aguiar047@gmail.com">
+<img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=EBD03E&amp;color:FFF" alt="E-mail">
+</a>
+<a href="https://www.linkedin.com/in/felipe-me"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EBD03E&amp;color:FFF" alt="LinkedIn"></a>
+<a href="https://www.youtube.com/channel/UCCcDZkI7AITYFCgDEFV9OoQ"><img src="https://img.shields.io/badge/-Youtube-020114?style=for-the-badge&amp;logo=youtube&amp;logoColor=EBD03E&amp;color:FFF" alt="Youtube"></a></p>
+</div>
 
 
 

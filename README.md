@@ -14,11 +14,7 @@
   Connect with me
 </h3>
 
-<div align="center">
-<p>
-<a href="mailto:felipe.silva.aguiar047@gmail.com">
-<img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=EBD03E&amp;color:FFF" alt="E-mail">
-</a>
+
 
 
 

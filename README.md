@@ -51,4 +51,3 @@
 <div align="center">
          
 </div>
-</head>![Snake animation](https://github.com/AlanMatheus18/AlanMatheus18/blob/output/github-contribution-grid-snake.svg)

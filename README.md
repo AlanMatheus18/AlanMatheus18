@@ -1,5 +1,9 @@
-![Hi](https://github.com/AlanMatheus18/AlanMatheus18/assets/97889961/ebcde00b-1df2-47a7-a318-4dceed88e733)
-
+<div align="center">
+  <a href="https://github.com/AlanMatheus18">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlanMatheus18&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanMatheus18&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 <div style="display: flex; justify-content: center;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
